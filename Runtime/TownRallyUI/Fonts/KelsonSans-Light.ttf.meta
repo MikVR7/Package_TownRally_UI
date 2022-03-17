@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 3e4d308be1a804f438062a5a8ae48c46
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Kelson Sans
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 76e1fc52f5f3e424687f08c7ac64221b, type: 3}
+  - {fileID: 12800000, guid: 2883a3bbc42c8424aacabf5f9708b11c, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
