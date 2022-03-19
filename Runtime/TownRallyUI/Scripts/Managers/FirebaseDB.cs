@@ -1,4 +1,4 @@
-using CoDeEvents;
+using CodeEvents;
 using Firebase.Database;
 using System.Collections;
 using System.Linq;

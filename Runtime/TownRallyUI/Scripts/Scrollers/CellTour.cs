@@ -1,4 +1,4 @@
-using CoDeEvents;
+using CodeEvents;
 using EnhancedUI.EnhancedScroller;
 using TMPro;
 using UnityEngine;
