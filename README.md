@@ -2,12 +2,12 @@
 
 # TownRally
 
-TownRally is my new project containing of different packages that work together.
+TownRally is my new project containing different packages that work together.
 
 Currently the packages are 
-  Package_TownRally_UI - that handles user management, database, GUI
-  Package_TownRally_RallySystem - rally system is a PokemonGO like educational game to learn about cities.
-  ...more to come!
+  - Package_TownRally_UI - that handles user management, database, GUI
+  - Package_TownRally_RallySystem - rally system is a PokemonGO like educational game to learn about cities.
+  - ...more to come!
   
 # UI
 
