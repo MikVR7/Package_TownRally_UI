@@ -28,7 +28,7 @@ namespace TownRally.UI
             EventIn_FirebaseLogout.AddListener(FirebaseLogout);
 
             auth = FirebaseAuth.DefaultInstance;
-            Debug.Log("FIREBASE AUTHENTICATION DONE!");
+            Debug.Log("Firebase Auth Init done!");
         }
 
         private void FirebaseLogin(List<string> data)

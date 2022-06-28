@@ -23,7 +23,10 @@ namespace TownRally.UI
 
             // after splashscreen: perform loading jobs
             LoadingManager.EventIn_AddLoadingJobs.Invoke(new System.Collections.Generic.List<LoadingJob>() { LoadingJob.Language });
-            TownRallyUIMain.EventIn_OpenCanvas.Invoke(CanvasType.Loading);
+
+            // TODO: This is only for presentation! Change that back to Loading screen!
+            TownRallyUIMain.EventIn_OpenCanvas.Invoke(CanvasType.Register);
+            //TownRallyUIMain.EventIn_OpenCanvas.Invoke(CanvasType.Loading);
         }
 
         private void AnimEvent_TurnOffSplashScreen()

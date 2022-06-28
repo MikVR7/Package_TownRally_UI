@@ -24,6 +24,7 @@ namespace TownRally.UI
 
             EventIn_SaveObjectData.AddListener(SaveObjectData);
             EventIn_RequestData.AddListener(RequestData);
+            Debug.Log("FirebaseDB Init done!");
         }
 
         //private void SaveDataButton(string username)
